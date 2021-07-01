@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267803054549",
+    "project_id": "codeforum-87213",
+    "storage_bucket": "codeforum-87213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267803054549:android:ec7fe49c50a5f439d3ed5c",
+        "android_client_info": {
+          "package_name": "com.example.codeforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267803054549-ftc2ovjitg5vg1bnl79is5d1s7iv2bi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsWMTVrZOQ_AI_1OCN-G_2gh5tTGod1ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267803054549-ftc2ovjitg5vg1bnl79is5d1s7iv2bi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
